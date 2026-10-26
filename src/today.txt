@@ -1,0 +1,4 @@
+0. Layout 3 (home, detail, portfolio)
+1. show coins
+2. paging 10 pages, 100 coin each
+3. Searching
